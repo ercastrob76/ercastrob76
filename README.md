@@ -1,6 +1,6 @@
 ## Hola, mi nombre es Ernesto Castro 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+datos;Automatizacion+Industrial;Ingeniero+Electronico)](https://git.io/typing-svg)
-
+https://github.com/ercastrob76/ercastrob76/blob/main/como-hacer-un-analisis-de-datos.jpg
 Analista de datos, especialista en bases de datos y automatización industrial, profesional en
 Ingeniería Electrónica, con más de 10 años de experiencia profesional. 5 años como docente
 universitario, más de 5 años en áreas relacionadas al control de procesos industriales.
