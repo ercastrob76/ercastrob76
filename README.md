@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+datos;Automatizacion+Industrial;Ingeniero+Electronico)](https://git.io/typing-svg)
 
-![image](https://github.com/user-attachments/assets/03b38dac-1975-4baa-bb8c-d1a91495f873)
-
 [![LinkedIn](https://github.com/user-attachments/assets/03b38dac-1975-4baa-bb8c-d1a91495f873)](https://www.linkedin.com/in/ernesto-castro-024216342/)
 
 <img src="https://github.com/ercastrob76/ercastrob76/blob/main/como-hacer-un-analisis-de-datos.jpg?raw=true">
