@@ -1,19 +1,18 @@
-## Hola, mi nombre es Ernesto Castro 👋
+## Hi, mi name is Ernesto Castro 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Analista+de+datos;Automatizacion+Industrial;Ingeniero+Electronico)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Analyst;Industrial+Automation;Electronics+Engineer)](https://git.io/typing-svg)
 
 [![LinkedIn](https://github.com/user-attachments/assets/03b38dac-1975-4baa-bb8c-d1a91495f873)](https://www.linkedin.com/in/ernesto-castro-024216342/)
 
 <img src="https://github.com/ercastrob76/ercastrob76/blob/main/como-hacer-un-analisis-de-datos.jpg?raw=true">
 
-Analista de datos, especialista en bases de datos y automatización industrial, profesional en
-Ingeniería Electrónica, con más de 10 años de experiencia profesional. 5 años como docente
-universitario, más de 5 años en áreas relacionadas al control de procesos industriales.
-Experiencia con sistemas de supervisión y adquisición de datos (SCADA), sistema de gestión
-de bodegas(WAMAS), EIT (Efficiency Improvement Tool), todas herramientas relacionadas con
-la recolección y procesamiento de información para toma de decisiones basadas en datos.
-Desarrollo de aplicaciones en C# y Python para la limpieza y procesamiento de datos.
-Competencias en comunicación y gestión de proyectos.
+Electronics Engineering professional with over 10 years of experience in both industry and academia. I have solid
+experience in industrial automation, data analysis with a particular focus on industrial process control. I have worked
+for over 5 years in academia as a university lecturer and over 5 years on projects related to supervisory systems,
+data acquisition (SCADA), warehouse management (WAMAS), and efficiency improvement tools (EIT), enabling data
+collection and processing for decision-making. I also have experience managing teams of technical crew, along with
+skills in effective communication and project management. A solution-oriented professional with strong
+communication skills and attention to detail.
 <!--
 **ercastrob76/ercastrob76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
